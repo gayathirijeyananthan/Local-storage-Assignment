@@ -9,10 +9,11 @@ body {
 
 .container {
     background: white;
-    padding: 20px;
+    padding: 70px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     text-align: center;
+    width:300px;
 }
 
 input {
